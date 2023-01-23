@@ -15,3 +15,4 @@ Your project must include the following:
 4. Your block letters must match those in the attached Block Letters Sample (5 x 7).
 
 Please click on the links below to learn more about ASCII art, and view the alphabet in block letters.
+Finally, I recommend you find this assignment in Google Classroom for more details. 
